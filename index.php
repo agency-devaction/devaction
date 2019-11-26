@@ -9,7 +9,7 @@ error_reporting(E_ALL & ~E_NOTICE);
 
 require_once("vendor/autoload.php");
 
-define('APP_HOST'       , $_SERVER['HTTP_HOST'] . "/devaction-1");
+define('APP_HOST'       , $_SERVER['HTTP_HOST'] . "/devaction");
 define('PATH'           , realpath('./'));        
 
 try {
