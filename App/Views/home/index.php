@@ -41,7 +41,7 @@
             data-splitout="none"
             data-responsive_offset="on"
 
-          style="z-index: 6; white-space: nowrap; font-size: 18px; line-height: 32px; font-weight: 400; color: rgba(134, 136, 148, 1.00);font-family:Poppins;">Existem muitas variações de passagens de Lorem <br> Ipsum available. </p>
+          style="z-index: 6; white-space: nowrap; font-size: 18px; line-height: 32px; font-weight: 400; color: rgba(134, 136, 148, 1.00);font-family:Poppins;">Sempre buscando inovar em soluções<br> a DevAction sem na vanguarda do que é melhor.. </p>
           <!-- LAYER NR. 3 -->
           <div class="tp-caption rev-btn button button-sm rev-withicon  tp-resizeme rs-hover-ready"
             id="slide-2-layer-4"
@@ -220,7 +220,7 @@
           data-splitout="none"
           data-responsive_offset="on"
 
-          style="z-index: 5; white-space: nowrap; font-size: 60px; line-height: 70px; font-weight: 700; color: rgba(27, 14, 61, 1.00);font-family:Nunito;">It's good to stand  <br> for something </h1>
+          style="z-index: 5; white-space: nowrap; font-size: 60px; line-height: 70px; font-weight: 700; color: rgba(27, 14, 61, 1.00);font-family:Nunito;">Criando soluções<br> para o seu negocio. </h1>
           <!-- LAYER NR. 2 -->
           <p class="tp-caption   tp-resizeme"
             id="slide-3-layer-2"
@@ -237,7 +237,7 @@
             data-splitout="none"
             data-responsive_offset="on"
 
-          style="z-index: 6; white-space: nowrap; font-size: 18px; line-height: 32px; font-weight: 400; color: rgba(134, 136, 148, 1.00);font-family:Poppins;">There are many variations of passages of Lorem <br> Ipsum available. </p>
+          style="z-index: 6; white-space: nowrap; font-size: 18px; line-height: 32px; font-weight: 400; color: rgba(134, 136, 148, 1.00);font-family:Poppins;">Transformando o problema<br> em solução para sua empresa.. </p>
           <!-- LAYER NR. 3 -->
           <div class="tp-caption rev-btn button button-sm rev-withicon  tp-resizeme rs-hover-ready"
             id="slide-3-layer-4"
@@ -256,7 +256,7 @@
             data-splitout="none"
             data-responsive_offset="on"
 
-          style="z-index: 7; white-space: nowrap; font-size: 18px; line-height: 50px;height:auto; font-weight: 300; color: rgba(255, 255, 255, 1.00);font-family:Nunito;padding:0 35px 0 35px;border-color:rgba(0, 0, 0, 1.00);border-radius:30px 30px 30px 30px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;">Start a Project</div>
+          style="z-index: 7; white-space: nowrap; font-size: 18px; line-height: 50px;height:auto; font-weight: 300; color: rgba(255, 255, 255, 1.00);font-family:Nunito;padding:0 35px 0 35px;border-color:rgba(0, 0, 0, 1.00);border-radius:30px 30px 30px 30px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;">Inicie seu projeto</div>
           <!-- LAYER NR. 4 -->
           <span class="tp-caption   tp-resizeme"
             id="slide-3-layer-13"
@@ -461,7 +461,7 @@
           data-splitout="none"
           data-responsive_offset="on"
 
-          style="z-index: 5; white-space: nowrap; font-size: 60px; line-height: 70px; font-weight: 700; color: rgba(27, 14, 61, 1.00);font-family:Nunito;">Negócios em crescimento <br>são novos clientes </h1>
+          style="z-index: 5; white-space: nowrap; font-size: 60px; line-height: 70px; font-weight: 700; color: rgba(27, 14, 61, 1.00);font-family:Nunito;">Tire seu projeto <br>do papel </h1>
           <!-- LAYER NR. 2 -->
           <p class="tp-caption   tp-resizeme"
             id="slide-4-layer-2"
@@ -478,7 +478,7 @@
             data-splitout="none"
             data-responsive_offset="on"
 
-          style="z-index: 6; white-space: nowrap; font-size: 18px; line-height: 32px; font-weight: 400; color: rgba(134, 136, 148, 1.00);font-family:Poppins;">There are many variations of passages of Lorem <br> Ipsum available. </p>
+          style="z-index: 6; white-space: nowrap; font-size: 18px; line-height: 32px; font-weight: 400; color: rgba(134, 136, 148, 1.00);font-family:Poppins;">Não deixe seu prjeto morrer <br> podemos fazer ele se tornar real. </p>
           <!-- LAYER NR. 3 -->
           <div class="tp-caption rev-btn button button-sm rev-withicon  tp-resizeme rs-hover-ready"
             id="slide-4-layer-4"
@@ -514,7 +514,7 @@
             data-splitout="none"
             data-responsive_offset="on"
 
-          style="z-index: 8; white-space: nowrap; font-size: 12px; line-height: 32px; font-weight: 400; color: rgba(134, 136, 148, 1.00);font-family:Poppins;">* Comece seu projeto conosco hoje! </span>
+          style="z-index: 8; white-space: nowrap; font-size: 12px; line-height: 32px; font-weight: 400; color: rgba(134, 136, 148, 1.00);font-family:Poppins;">*Comece seu projeto conosco hoje! </span>
           <!-- LAYER NR. 5 -->
           <div class="tp-caption   tp-resizeme"
             id="slide-4-layer-15"
@@ -693,7 +693,7 @@
                   <img src="http://<?php echo APP_HOST; ?>/public/images/work/01.png" class="img-fluid " alt="">
                 </div>
                 <h3 class="title text-white">1. Planejamento</h3>
-                <span class="mb-0 text-uppercase text-white iq-fw-3 iq-ls-1">fazer você diferente</span>
+                <span class="mb-0 text-uppercase text-white iq-fw-3 iq-ls-1">Analisamos o problema e pensamos na solução.</span>
               </div>
             </div>
             <div class="col-lg-4 text-center">
@@ -702,7 +702,7 @@
                   <img src="http://<?php echo APP_HOST; ?>/public/images/work/02.png" class="img-fluid " alt="">
                 </div>
                 <h3 class="title text-white">2. Desenvolvimento</h3>
-                <span class="mb-0 text-uppercase text-white iq-fw-3 iq-ls-1">fazer você diferente</span>
+                <span class="mb-0 text-uppercase text-white iq-fw-3 iq-ls-1">Nesse ponto e pensado qual Stack e quais seguimentos seu projeto seguirá.</span>
               </div>
             </div>
             <div class="col-lg-4 text-center">
@@ -711,7 +711,7 @@
                   <img src="http://<?php echo APP_HOST; ?>/public/images/work/03.png" class="img-fluid " alt="">
                 </div>
                 <h3 class="title text-white">3. Lançamento</h3>
-                <span class="mb-0 text-uppercase text-white iq-fw-3 iq-ls-1">fazer você diferente</span>
+                <span class="mb-0 text-uppercase text-white iq-fw-3 iq-ls-1">Congratulations, seu pejeto foi finalizado, passando pelos testes e agora você pode usar.</span>
               </div>
             </div>
           </div>
@@ -766,7 +766,8 @@
             </div>
             <div class="col-lg-6 align-self-center img-fluid wow fadeInLeft">
               <h2 class="iq-fw-8 mb-2 iq-mt-40">Princípios de Marketing Digital</h2>
-              <p class="mb-3">Progravida nibh vel velit auctor alinean sollicitudin, lorem quis bibendum auctor.</p>
+              <p class="mb-3">Marketing digital é um conjunto de estratégias usadas no meio digital, principalmente no online para captação de leads, 
+                              de modo a vincular anúncios mais segmentados ao público alvo em âmbitos aos quais ele circule constantemente.</p>
 
               <ul class="iq-project-info">
                 <li>
@@ -774,7 +775,7 @@
                     <div class="service-shap"><i class="ion-ios-cloud-download-outline"></i></div>
                     <div class="media-body ml-3">
                       <h5 class="mt-0 mb-2 iq-fw-8"><a href="service-detail.html">Análise de dados</a></h5>
-                      <p class="mb-0">Lorem ipsum dolor sit amet, consectetur auctor alinean sollicitudin, lorem quis bibendum auctor</p>
+                      <p class="mb-0">O sistema é desenvolvido pra analisar a tendencia dos usuario ao visitar sua plataforma.</p>
                     </div>
                   </div>
                 </li>
@@ -783,7 +784,8 @@
                     <div class="service-shap"><i class="ion-ios-pie-outline"></i></div>
                     <div class="media-body ml-3">
                       <h5 class="mt-0 mb-2 iq-fw-8"><a href="service-detail.html">Marketing PPC</a></h5>
-                      <p class="mb-0">Lorem ipsum dolor sit amet, consectetur auctor alinean sollicitudin, lorem quis bibendum auctor</p>
+                      <p class="mb-0">A principal coisa a entender é como os anúncios PPC são exibidos no topo de uma página de resultados de pesquisa do Google.
+                                         Normalmente os três principais resultados de uma pesquisa local são anúncios relacionados ao assunto.</p>
                     </div>
                   </div>
                 </li>
@@ -800,7 +802,7 @@
           <div class="row flex-row-reverse">
             <div class="col-lg-6 align-self-center wow fadeInRight">
               <h2 class="iq-fw-8 mb-2">Marketing de conteúdo é um compromisso</h2>
-              <p class="mb-3">Progravida nibh vel velit auctor alinean sollicitudin, lorem quis bibendum auctor.</p>
+              <p class="mb-3">Configuramos toda parte de SEO/PPC para que sua marca seja vista.</p>
 
               <div class="progressbar text-center " data-animate="false">
                 <div class="circle green" data-percent="76">
@@ -951,7 +953,7 @@
                   <div class="service-shap purple"><i class="ion-ios-cloud-download-outline"></i></div>
                   <h5 class="float-left mt-4">Data Analysis</h5>
                   <div class="clearfix"></div>
-                  <p class="mt-3 mb-0">Progravida nibh vel velit auctor alinean sollicitudin, lorem quis bibendum auctor, nisi elit consequat.</p>
+                  <p class="mt-3 mb-0">Análises de dados é a atividade de transformar um conjunto de dados com o objetivo de poder verificá-los melhor dando-lhes ao mesmo tempo uma razão de ser e uma análise racional.</p>
                 </div>
                 <a href="service.html" class="button-info">consulte Mais informação <span class="float-right">. . .</span></a>
               </div>
@@ -962,7 +964,7 @@
                   <div class="service-shap purple"><i class="ion-ios-bookmarks-outline"></i></div>
                   <h5 class="float-left mt-4">PPC Marketing</h5>
                   <div class="clearfix"></div>
-                  <p class="mt-3 mb-0">Progravida nibh vel velit auctor alinean sollicitudin, lorem quis bibendum auctor, nisi elit consequat.</p>
+                  <p class="mt-3 mb-0">Tornando sua empresa vista, para que seja lembrada. Fazendo com que os buscadores te encontre de forma rapida agregando valor a sua marca.</p>
                 </div>
                 <a href="service.html" class="button-info">consulte Mais informação <span class="float-right">. . .</span></a>
               </div>
@@ -973,7 +975,7 @@
                   <div class="service-shap purple"><i class="ion-ios-pie-outline"></i></div>
                   <h5 class="float-left mt-4">Analista de negócios</h5>
                   <div class="clearfix"></div>
-                  <p class="mt-3 mb-0">Progravida nibh vel velit auctor alinean sollicitudin, lorem quis bibendum auctor, nisi elit consequat.</p>
+                  <p class="mt-3 mb-0">Analisamos sua empresa para que lhe seja apresentado uma solução que vista bem seu negocio.</p>
                 </div>
                 <a href="service.html" class="button-info">consulte Mais informação <span class="float-right">. . .</span></a>
               </div>
@@ -984,9 +986,9 @@
                   <div class="service-shap purple"><i class="ion-ios-world-outline"></i></div>
                   <h5 class="float-left mt-4">Marketing de mídia social</h5>
                   <div class="clearfix"></div>
-                  <p class="mt-3 mb-0">Progravida nibh vel velit auctor alinean sollicitudin, lorem quis bibendum auctor, nisi elit consequat.</p>
+                  <p class="mt-3 mb-0">Ainda preparamos seu site para ter um SEO/CCP alinahdo com os buscadores mais famos do mercado.</p>
                 </div>
-                <a href="service.html" class="button-info">Read More <span class="float-right">. . .</span></a>
+                <a href="service.html" class="button-info">leia mais. <span class="float-right">. . .</span></a>
               </div>
             </div>
           </div>

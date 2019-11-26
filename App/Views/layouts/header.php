@@ -30,7 +30,7 @@
                       </label>
                     </form>
                   </li>
-                  <li class="menu-contact iq-fw-5"><a href="tel:0123456789" ><i class="fas fa-phone pr-1 "></i> 0 123 456 789</a></li>
+                  <li class="menu-contact iq-fw-5"><a href="tel:0123456789" ><i class="fas fa-phone pr-1 "></i> (75)3616-4605</a></li>
                 </ul>
                 <!-- menu links -->
                 <ul class="menu-links">
